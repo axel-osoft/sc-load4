@@ -42,7 +42,7 @@ Especially those generously supporting us at the *The Organization* tier and hig
 
 <!-- teaser-end -->
 
-## Example
+## Example xxx
 
 *attrs* gives you a class decorator and a way to declaratively define the attributes on that class:
 
