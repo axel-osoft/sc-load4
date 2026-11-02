@@ -37,7 +37,7 @@ Especially those generously supporting us at the *The Organization* tier and hig
 </p>
 
 <p align="center">
-   <strong>Please consider <a href="https://github.com/sponsors/hynek">joining them</a> to help make <em>attrs</em>’s maintenance more sustainable!</strong>
+   <strong>Please consider <a href="https://github.com/sponsors/hynek">joining them</a> to help xmake <em>attrs</em>’s maintenance more sustainable!</strong>
 </p>
 
 <!-- teaser-end -->
